@@ -76,14 +76,14 @@
     },
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
-      "value": "."
+      "value": ","
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
        "value": "92Xxxxxxxx"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
+    "description": "KING-MD;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT1BNNzVGYjJIZ0Uwbi9DaEVaNW1iMEhIbkRBM1dPLy9YK05scTdmRFowcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQng1eDZtUHlNc1VuV0dpUTdZOHFsVW44Ykw5QnFoaWgzNi95aGRMUVZSUT0ifX0sInNpZ25lZElkZW50aXR5S2V5Ijp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJpQU1vOHM1aWJ3SjhXNGpHRU8wOVZsbzRJVGoxUkM1SW45eGtSNkozUDNzPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJoZTdYUG55QWtLczJpWDNMYWVzZHhia0Y3R1E0Tk5OTGJEOTZoR2pYT1JnPSJ9fSwic2lnbmVkUHJlS2V5Ijp7ImtleVBhaXIiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IndGZm9QYzh6dUcyRncyN3JlUXhRaVhFVjlxUHEyTDd5bjF6U3dkditqMkk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImRxc2FQSm00OFpyUFJUMENOSzFXV0IvRE43a2xOdzBQTlA2dUlnS3gxMWc9In19LCJzaWduYXR1cmUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJMVzA3WDlEbEZic25tSURtZVl2QW9JbXNZTEZlOU5MQS9WMjZLR2dkTmdHaFZYZFd0RDVZL0wrV0NzYU0xM2kwN0JLeGFETWVwVmRRVWp0OHRQYWlpdz09In0sImtleUlkIjoxfSwicmVnaXN0cmF0aW9uSWQiOjEyMSwiYWR2U2VjcmV0S2V5IjoiNUlJaUpNSXpvRXBweVl0MTZDZW9CN3FLcFYyT0gxRmorTnJlUlNmNTAwOD0iLCJwcm9jZXNzZWRIaXN0b3J5TWVzc2FnZXMiOltdLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoicVJRSjFqSFJSZ2EtUlFHaldDN0NhUSIsInBob25lSWQiOiIzYmNiZDVjMy03YjI3LTQ0OGUtYTI0MC05NmExNGNmMzRmYWMiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUjZUdktoZmxZaUJYUVE2SzhEL1lzeTU0aThjPSJ9LCJyZWdpc3RlcmVkIjpmYWxzZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIzODQ5RGdXNzE5VHRsaVJqV0poMXphOHBYdTA9In0sInJlZ2lzdHJhdGlvbiI6e30sImFjY291bnQiOnsiZGV0YWlscyI6IkNLM3VyWXdGRU1iWGc2OEdHQU1nQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiIrd3ppaVBUZldHY3V2TmhlSTMyeDh4NzZUNG1hMU5IRmZ5eEdYdk1wNURnPSIsImFjY291bnRTaWduYXR1cmUiOiJZaWc1ejdNVVpId21VOWlkNWdvcUgwQzdXNnVBMndjN0pwSFF1QzNSWGx3c2R6c0l6ZnZJMDl4cFozUm9xd043M2FRZUJ0eEJ3SXIyK1JOdU5ycUJEUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiWUxjSXdaOVAxZ1N5dDRSZ0Y3Q2l0MkZheXFVYmlzR1QwRnJjNXlwM0lBY244Smtibk43K1c1YnZvMlFxVk44OHFrOGtpOU02bWxvQmZpWTg3ZlhXaWc9PSJ9LCJtZSI6eyJpZCI6IjIzNDkwNDUzNjM0Mzg6N0BzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJUb2NoaSBFdG8ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjM0OTA0NTM2MzQzODo3QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmZzTTRvajAzMWhuTHJ6WVhpTjlzZk1lK2srSm10VFJ4WDhzUmw3ektlUTQifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MDkyMzkyNDEsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBTittIn0="
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -92,7 +92,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://King-MdIsbot:King-MdIsbot@cluster0.hikjrg2.mongodb.net/?retryWrites=true&w=majority"
+    "value": ","
   },
     "THEME": {
     "description": "Don't Change . No Need To Change Only Avilable King-Md .",
@@ -118,7 +118,7 @@
   "heroku": {
     "description": "Weather it is on heroku or not",
      "value": "true",
-     "required": false   
+     "required": true   
   }
 },
 "formation": {
